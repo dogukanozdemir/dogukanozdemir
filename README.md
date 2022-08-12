@@ -1,7 +1,7 @@
 <h1> Doğukan Özdemir </h1>
 
 
-### Junior C++/Python Developer
+### Backend Developer with Go and Spring Boot
 
 ### ⚙️ &nbsp;GitHub Analytics
 
